@@ -10,7 +10,7 @@ What I Did:-
 
 2. Explored the data to verify data types, missing values, duplicates, and outliers.
 
-3. Dealt with missing values by filling or deleting them as required.
+3. Deal with missing values by filling or deleting them as required.
 
 4. Deleted duplicate and unnecessary records.
 
